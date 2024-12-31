@@ -3,7 +3,7 @@
 ![Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+my+GitHub+Profile)
 
 ## 👩‍💻 About Me  
-Hello! I'm **Amnia Ashraf**, a passionate **GIS Specialist** and **Software Engineer**.  
+Hello! I'm **Omnia Ashraf**, a passionate **GIS Specialist** and **Software Engineer**.  
 I specialize in **Geographic Information Systems (GIS)** and **Software Development**, and I love solving complex problems through technology.  
 
 I graduated with a GIS specialization and further honed my skills in **Software Engineering** through a 12-month intensive program at **ALX Africa**.  
